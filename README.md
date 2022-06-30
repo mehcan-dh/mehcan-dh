@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mehcan-dh, originally [https://github.com/mehmetcanhoroz]@mehmetcanhoroz
+- 👋 Hi, I’m @mehcan-dh, originally (@mehmetcanhoroz)[https://github.com/mehmetcanhoroz]
 - 👀 I’m interested in golang and game development
 - 🏢 I’m currently working for Delivery Hero
 
