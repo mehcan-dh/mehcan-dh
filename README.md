@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehcan-dh, originally @mehmetcanhoroz
 - 👀 I’m interested in golang and game development
-- 🌱 I’m currently learning unreal engine 5
+- 🏢 I’m currently working for Delivery Hero
 
 <!---
 mehcan-dh/mehcan-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
