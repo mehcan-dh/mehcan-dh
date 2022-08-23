@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mehcan-dh, originally [@mehmetcanhoroz](https://github.com/mehmetcanhoroz)
+- 👋 Hi, This is a temp account for work, originally and owner [@mehmetcanhoroz](https://github.com/mehmetcanhoroz) Please checkout my personal profile :)
 - 👀 I’m interested in golang and game development
 - 🏢 I’m currently working for Delivery Hero
 
